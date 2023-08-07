@@ -1,0 +1,35 @@
+.img
+{
+    display: flex;
+}
+p
+{
+    width: 500px;
+    margin: 80px;
+}
+img
+{
+    width: 500px;
+    height: auto;
+}
+td,th,table
+{
+    margin: 80px;
+    width: 500px;
+    border: 2px solid green;
+}
+
+h1{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    margin: 0 auto;
+}
+footer
+{
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+   align-items: center;
+    background-color: beige;
+}
